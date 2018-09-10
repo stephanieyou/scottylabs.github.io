@@ -1,50 +1,43 @@
-- name: Jackie Gaston
+- name: Serena Wang
   bio: Director
-  img-name: jackie
-- name: Scott Krulcik
+  img-name: serena
+- name: Stephanie You
+  bio: Director of Finance
+  img-name: stephaniey
+- name: Emily Lo
+  bio: Director of Design
+  img-name: emilylo
+  website: 'http://hiemilylo.github.io/'
+- name: Shalom Yiblet
   bio: Director of Technology
+  img-name: shalom
+- name: Josh Zhanson
+  bio: Director of Events
+  img-name: josh
+- name: Scott Krulcik
+  bio: Former Director of Technology
   img-name: scott
   website: 'https://github.com/skrulcik'
-- name: Serena Wang
-  bio: Director of Finance
-  img-name: serena
-- name: Shalom Yiblet
-  bio: Director of Operations
-  img-name: shalom
-  website: 'http://yiblet.me'
 - name: Jason Chang
-  bio: Director of Communications
+  bio: Former Director of Communications
   img-name: jason
-- name: Mark Vella
-  bio: 'Social Chair & Former Director'
-  img-name: mark
-  website: 'https://mcvellaa.github.io/'
-- name: Monisha Gopal
-  bio: 'Moni$wag'
-  img-name: monisha
-- name: Jake Zimmerman
-  bio: 'Core Member'
-  img-name: jake
-  website: 'https://jez.io/'
-- name: Lois Yang
-  bio: Designer
-  img-name: lois
-  website: 'http://www.jingqiyang-lois.com'
-- name: Min Zhou
-  bio: Designer
-  img-name: min
-  website: 'http://min-zhou.com'
-- name: Oscar Bezi
-  bio: Friendly Neighborhood Linux User
-  img-name: oscar
-  website: 'http://bezi.io'
-- name: Angel Zhou
-  bio: 'Shines Bright Like A Plat 2'
-  img-name: angel
+  website: 'http://yiblet.me'
+- name: Maria Rodriguez
+  bio: Cat Lover
+  img-name: maria
+- name: Sandra Sajeev
+  bio: Gopher Queen, Cheesecake enthusiast
+  img-name: sandra
+- name: Tiffany Chen
+  bio: developer and designer
+  img-name: tiffany
 - name: Bryan Yan
   bio: IT Guy, Lover of Aphrodite
   img-name: bryan
   website: 'http://bryanyan.github.io'
+- name: Angel Zhou
+  bio: 'Shines Bright Like A Plat 2'
+  img-name: angel
 - name: Emily Newman
   bio: CUPS Stacker
   img-name: emily
@@ -55,4 +48,16 @@
   bio: Amiable Hacker
   img-name: justin
   website: 'https://justinchuby.github.io'
-  
+- name: Mattthew Lipari
+  bio: Designated Driver
+  img-name: matt
+- name: Ariela Immordino
+  bio: Programmer
+- name: Maxwell Johnson
+  bio: tbh I thought there would be free food
+  img-name: maxwell
+- name: Tom Wildenhain
+  bio: Programmer
+- name: Jeremy Leung
+  bio: Snooker World Champion 2016
+  img-name: jeremy
